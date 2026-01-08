@@ -1,0 +1,6 @@
+com\agencia\viajes\controller\ClienteWebController.class
+com\agencia\viajes\AgenciaViajesApplication.class
+com\agencia\viajes\service\ClienteService.class
+com\agencia\viajes\repository\ClienteRepository.class
+com\agencia\viajes\model\Cliente.class
+com\agencia\viajes\controller\ClienteRestController.class
